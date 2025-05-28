@@ -1,4 +1,4 @@
-# 🧠 LLMPedia
+# LLMPedia
 
 **LLMPedia** is a one-stop hub for LLM-powered micro-apps.  
 It currently holds:
