@@ -1,5 +1,6 @@
 # LLMPedia
 
+**Live Demo** [https://llmpedia-app.streamlit.app](https://llmpedia-app.streamlit.app)
 **LLMPedia** is a one-stop hub for LLM-powered micro-apps.  
 It currently holds:
 
