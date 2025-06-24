@@ -28,4 +28,4 @@ It currently holds:
    
 4. **Run**
     ```bash
-    streamlit run app.py
+    streamlit run src/app.py

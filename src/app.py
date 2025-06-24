@@ -3,9 +3,9 @@ from dotenv import load_dotenv
 import streamlit as st
 from openai import OpenAI
 
-from src.modules.brochure.ui import brochure_tab
-from src.modules.airline_assistant.ui import airline_tab
-from src.modules.meeting_minutes.ui import meeting_minutes_tab
+from modules.brochure.ui import brochure_tab
+from modules.airline_assistant.ui import airline_tab
+from modules.meeting_minutes.ui import meeting_minutes_tab
 
 # ───── Setup ─────────────────────────────────────────────────────────────
 load_dotenv()
